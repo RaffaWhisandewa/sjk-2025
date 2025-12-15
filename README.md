@@ -1,2 +1,2 @@
-# sjkl-2025
+# sjk-2025
 Proyek Sistem dan Jaringan Komputer 2025
